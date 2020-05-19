@@ -1,0 +1,24 @@
+{
+    "name": "tangzhixing1218\/jwt",
+    "description": "Package description here.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zz",
+            "email": "1055014075@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Tangzhixing1218\\Jwt\\": "src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Tangzhixing1218\\Jwt\\ServiceProvider"
+            ]
+        }
+    }
+}
