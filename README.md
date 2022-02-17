@@ -16,7 +16,7 @@ TODO
 ## Contributing
 
 You can contribute in one of three ways:
-
+e
 1. File bug reports using the [issue tracker](https://github.com/tangzhixing1218/jwt/issues).
 2. Answer questions or fix bugs on the [issue tracker](https://github.com/tangzhixing1218/jwt/issues).
 3. Contribute new features or update the wiki.
